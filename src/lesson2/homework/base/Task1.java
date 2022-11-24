@@ -1,6 +1,6 @@
 package lesson2.homework.base;
 
-public class task1 {
+public class Task1 {
     public static void main(String[] args) {
         //Задача №1
         //Создать переменные с ростом (!в метрах), весом.
