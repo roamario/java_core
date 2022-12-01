@@ -1,8 +1,6 @@
 package Lesson4.Homework;
 
-import java.sql.Array;
 import java.util.Arrays;
-import java.util.Locale;
 
 public class ProfiTasks {
     public static void main(String[] args) {
