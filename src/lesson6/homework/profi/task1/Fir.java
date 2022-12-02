@@ -1,4 +1,4 @@
-package lesson6.homework.profi;
+package lesson6.homework.profi.task1;
 
 public class Fir extends Tree implements Smellable {
 
